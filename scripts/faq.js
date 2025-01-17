@@ -1,3 +1,5 @@
+import "../scss/faq.scss";
+
 document.addEventListener('DOMContentLoaded', () => {
     const questions = document.querySelectorAll('.faq-question');
 
