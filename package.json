@@ -1,0 +1,31 @@
+{
+  "name": "faq-page",
+  "version": "1.0.0",
+  "description": "Create an FAQ page with expandable and collapsible sections.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanh00/faq-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanh00/faq-page/issues"
+  },
+  "homepage": "https://github.com/tuanh00/faq-page#readme",
+  "dependencies": {
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.3",
+    "mini-css-extract-plugin": "^2.9.2",
+    "sass": "^1.83.4",
+    "sass-loader": "^16.0.4",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  }
+}
